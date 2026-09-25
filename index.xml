@@ -17,6 +17,13 @@
 &lt;p&gt;Šis puslapis sukurtas atliekant debesų kompiuterijos laboratorinį darbą&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Apie</title>
+      <link>https://hepatic4.github.io/apie/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://hepatic4.github.io/apie/</guid>
+      <description>&lt;p&gt;Tai yra papildomas mano Hugo tinklalapio puslapis.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Laboratorinis darbas</title>
       <link>https://hepatic4.github.io/posts/laboratorinis/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
