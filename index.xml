@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Mano Hugo puslapis</title>
+    <link>https://github.com/hepatic4/hugo_labas.git/</link>
+    <description>Recent content on Mano Hugo puslapis</description>
+    <generator>Hugo</generator>
+    <language>lt-lt</language>
+    <lastBuildDate>Fri, 25 Sep 2026 15:22:12 +0300</lastBuildDate>
+    <atom:link href="https://github.com/hepatic4/hugo_labas.git/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pirmas</title>
+      <link>https://github.com/hepatic4/hugo_labas.git/posts/pirmas/</link>
+      <pubDate>Fri, 25 Sep 2026 15:22:12 +0300</pubDate>
+      <guid>https://github.com/hepatic4/hugo_labas.git/posts/pirmas/</guid>
+      <description>&lt;p&gt;Tai yra mano pirmasis Hugo tinklalapio įrašas.&lt;/p&gt;
+&lt;p&gt;Šis puslapis sukurtas atliekant debesų kompiuterijos laboratorinį darbą&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
